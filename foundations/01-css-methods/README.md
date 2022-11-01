@@ -13,7 +13,7 @@ The properties you need to add to each element are:
 * `button`: an orange background and a font size of 18px
 
 ## Desired Outcome
-![desired outcome](./desired-outcome.png)
+![desired outcome][def]
 
 
 ### Self Check
@@ -22,3 +22,6 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+
+[def]: ./desired-outcome.png
